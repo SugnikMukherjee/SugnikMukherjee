@@ -17,8 +17,8 @@
 
 ### 💼 About Me
 
-- 🎓 Final-year B.Tech. student at **NIT Durgapur**, majoring in Computer Science (CGPA: 9.26)
-- 💻 Currently a **Software Engineer Intern at Serko**, working on cloud-native productivity dashboards and engineering metrics
+- 🎓 B.Tech. from **NIT Durgapur**, majoring in Computer Science (CGPA: 9.26)
+- 💻 Former **Software Engineer Intern at Serko**, working on cloud-native productivity dashboards and engineering metrics
 - 🔬 Former **Research Intern at IIT Kharagpur**, worked on autonomous driving models using NVIDIA Jetson Nano
 - 🧩 Solved **1500+ problems on LeetCode**, top 5k rank globally
 - ⚡ Passionate about **Full Stack**, **Cloud Systems**, **AI/ML**, and scalable products
