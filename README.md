@@ -59,6 +59,22 @@
 
 ### 🚀 Projects
 
+#### 📡 RTCConnect – Real-Time Video Chat App
+> Peer-to-peer video chat platform powered by WebRTC with real-time signaling, media streaming, and dynamic room creation  
+**Tech:** WebRTC, Node.js, Express, Socket.io, HTML/CSS/JS
+
+#### 📧 MailLite – Minimal Java SMTP Server
+> Lightweight SMTP server with test client showcasing core email exchange commands (HELO, MAIL FROM, RCPT TO, DATA)  
+**Tech:** Java (Sockets, Threads, Streams)
+
+#### ⚙️ Custom CLI Tool – Environment & File Utilities
+> Command-line utility for environment inspection, directory operations, search, and configuration management  
+**Tech:** Rust, Clap, Serde, File I/O
+
+#### 🔴 Redis-Server – Custom Redis-Compatible Server
+> Redis-inspired in-memory key–value data store implementing basic RESP protocol and core commands for caching and data handling  
+**Tech:** Rust, Tokio, Async I/O
+
 #### 🧢 IPL Mania – Cricket Stats & Visualization Platform
 > A full-stack React + Express web app with dynamic filtering, player/team comparisons & interactive graphs  
 **Tech:** React, Express, PostgreSQL
