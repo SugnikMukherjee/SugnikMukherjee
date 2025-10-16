@@ -17,11 +17,12 @@
 
 ### 💼 About Me
 
-- 🎓 B.Tech. from **NIT Durgapur**, majoring in Computer Science (CGPA: 9.26)
-- 💻 Former **Software Engineer Intern at Serko**, working on cloud-native productivity dashboards and engineering metrics
-- 🔬 Former **Research Intern at IIT Kharagpur**, worked on autonomous driving models using NVIDIA Jetson Nano
-- 🧩 Solved **1500+ problems on LeetCode**, top 5k rank globally
-- ⚡ Passionate about **Full Stack**, **Cloud Systems**, **AI/ML**, and scalable products
+- 💻 **SWE at Serko**, working in the **Core Platform team** on identity management, authentication, and scalable backend services  
+- 🎓 B.Tech. in **Computer Science and Engineering** from **NIT Durgapur** (CGPA: 9.26)  
+- 🔬 Former **Research Intern at IIT Kharagpur**, focused on autonomous driving models using **NVIDIA Jetson Nano**  
+- 🧩 Solved **1500+ problems on LeetCode**, ranked among the **top 5k globally**  
+- ⚡ Enthusiastic about **distributed systems**, **cloud-native architectures**, and **AI-driven applications**
+
 
 ---
 
@@ -29,17 +30,17 @@
 
 #### **🖥️ Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,go,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,go,dart,rust" />
 </p>
 
 #### **🌐 Web & App Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flutter,spring" />
 </p>
 
 #### **🗄️ Databases & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,azure,docker,sql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,azure,docker,mongo" />
 </p>
 
 #### **🤖 Machine Learning & Deployment**
@@ -51,7 +52,7 @@
 
 #### **⚙️ Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,vim" />
 </p>
 
 ---
@@ -88,7 +89,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SugnikMukherjee&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnikMukherjee&theme=tokyonight" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugnikMukherjee&layout=compact&theme=tokyonight&langs_count=12" width="48%" alt="Top Languages" />
 </p>
 
 ---
