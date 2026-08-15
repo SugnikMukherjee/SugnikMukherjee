@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sugnik Mukherjee</h1>
-<h3 align="center">Full Stack Engineer • Cloud & DevOps Enthusiast • ML Explorer</h3>
+<h3 align="center">Full Stack Engineer • AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugnik-mukherjee-2692b5304/">
@@ -17,11 +17,11 @@
 
 ### 💼 About Me
 
-- 💻 **SWE at Serko**, working in the **Core Platform team** on identity management, authentication, and scalable backend services  
+- 💻 **SDE at Amazon**, working in **Amazon Now** building scalable backend services  
 - 🎓 B.Tech. in **Computer Science and Engineering** from **NIT Durgapur** (CGPA: 9.26)  
 - 🔬 Former **Research Intern at IIT Kharagpur**, focused on autonomous driving models using **NVIDIA Jetson Nano**  
 - 🧩 Solved **1500+ problems on LeetCode**, ranked among the **top 5k globally**  
-- ⚡ Enthusiastic about **distributed systems**, **cloud-native architectures**, and **AI-driven applications**
+- ⚡ Enthusiastic about **distributed systems**, **cloud-native architectures** and **AI-driven applications**
 
 
 ---
